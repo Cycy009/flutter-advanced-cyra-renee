@@ -1,7 +1,7 @@
 # lab0_cyra_renee
 
 **Nom complet :** NKOLET NGUEMA Cyra Renee  
-**Student ID :** [23231/2023]  
+**Student ID :** 23231/2023
 **Course :** Advanced Mobile Application  
 
 ## Getting Started
