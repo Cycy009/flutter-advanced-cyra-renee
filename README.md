@@ -1,6 +1,8 @@
 # lab0_cyra_renee
 
-A new Flutter project.
+**Nom complet :** NKOLET NGUEMA Cyra Renee  
+**Student ID :** [23231/2023]  
+**Course :** Advanced Mobile Application  
 
 ## Getting Started
 
